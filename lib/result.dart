@@ -8,13 +8,13 @@ class Result extends StatelessWidget {
   String get resultPhrase {
     var resultText = "You did it!";
     if (resultScore <= 8) {
-      resultText = "Your dope af!";
+      resultText = "You're rad man!";
     } else if (resultScore <= 12) {
-      resultText = "You're aight!";
+      resultText = "You're okay, I guess!";
     } else if (resultScore <= 16) {
-      resultText = "You're strange";
+      resultText = "You're kind of a strange person!";
     } else {
-      resultText = "How the fuck u this weird dog?...";
+      resultText = "How are you this weird?...";
     }
     return resultText;
   }
