@@ -3,10 +3,14 @@
 Multiplatform quiz application to help understand some of the basics of the flutter framework.
 
 ## Screenshots
-![screenshot1](./screen_shots\Screenshot_1647889577.png)
-![screenshot1](./screen_shots\Screenshot_1647889581.png)
-![screenshot1](./screen_shots\Screenshot_1647889584.png)
-![screenshot1](./screen_shots\Screenshot_1647889723.png)
+
+<img src="./screen_shots\Screenshot_1647889577.png" width="350">
+
+<img src="./screen_shots\Screenshot_1647889581.png" width="350">
+
+<img src="./screen_shots\Screenshot_1647889584.png" width="350">
+
+<img src="./screen_shots\Screenshot_1647889723.png" width="350">
 
 ## Getting Started
 
